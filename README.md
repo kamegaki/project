@@ -11,7 +11,7 @@ Desktop/laptop: https://drive.google.com/drive/folders/15x0IMR3B-Mbki_vRwEy65ta_
 
 Mobile(android): https://drive.google.com/file/d/1109fAXG_iz2lNz-MonEXJuzlAuIMytER/view?usp=sharing
 
-For Desktop/laptop you need to run WizardAdventures.exe
+For Desktop/laptop you need to download the folder "Gameproject" and then run WizardAdventures.exe
 
 For Mobile you just need to install and run the apk
 ## Executing program
